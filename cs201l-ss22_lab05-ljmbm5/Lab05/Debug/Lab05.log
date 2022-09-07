@@ -1,0 +1,8 @@
+﻿  lab5main.cpp
+C:\Users\mille\source\repos\cs201l-ss22_lab05-ljmbm5\Lab05\lab5main.cpp(52,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\mille\source\repos\cs201l-ss22_lab05-ljmbm5\Lab05\lab5main.cpp(58,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\mille\source\repos\cs201l-ss22_lab05-ljmbm5\Lab05\lab5main.cpp(60,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\mille\source\repos\cs201l-ss22_lab05-ljmbm5\Lab05\lab5main.cpp(69,20): warning C4018: '<': signed/unsigned mismatch
+  lab5fn.cpp
+  Generating Code...
+  Lab05.vcxproj -> C:\Users\mille\source\repos\cs201l-ss22_lab05-ljmbm5\Lab05\Debug\Lab05.exe
